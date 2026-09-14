@@ -677,7 +677,7 @@ h1,h2,h3,h4{
   border-radius:8px;
 }
 .marquee-logo[alt="Soler & Palau"]{
-  transform:scale(1.35);
+  height:108px;
 }
 .marquee-item:nth-child(even){ border-color:rgba(62,159,203,0.3); }
 .marquee-item:hover{
